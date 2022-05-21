@@ -1,6 +1,6 @@
 {
-    "name":"Xining JD_Task",
-    "description":"https://raw.githubusercontent.com/yyn618/QuantumultX-Script/main/JD_Task.json",
+    "name":"ZY_QX_Task",
+    "description":"https://raw.githubusercontent.com/zhiyu0215/Script/main/QX_Task.json",
     "task":[ 
 "0/30 9-13,14-18 * * * https://raw.githubusercontent.com/zhiyu0215/Script/main/QX_Task/fqxs/fqxs.js, tag=番茄小说, img-url=https://github.com/zhiyu0215/Script/blob/main/QX_Task/fqxs/fqxs.png",
     ]
