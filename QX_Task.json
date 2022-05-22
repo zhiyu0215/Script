@@ -4,6 +4,7 @@
     "task":[ 
 "0/30 9-13,14-18 * * * https://raw.githubusercontent.com/zhiyu0215/Script/main/QX_Task/fqxs/fqxs.js, tag=番茄小说, img-url=https://raw.githubusercontent.com/zhiyu0215/Script/main/QX_Task/fqxs/fqxs.png",
 "0 12 * * * https://raw.githubusercontent.com/xl2101200/-/main/hmd.js, tag=和睦度(app), img-url=https://github.com/xl2101200/-/blob/main/tom.png",
+"0 12 * * * https://raw.githubusercontent.com/xl2101200/-/main/thyc.js, tag=途虎养车, img-url=https://github.com/xl2101200/-/blob/main/tom.png",
 
     ]
 }
